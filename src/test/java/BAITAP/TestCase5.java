@@ -39,7 +39,7 @@ public class TestCase5 {
     public void Testcase05(){
         String firstName = "TheTam";
         String lastName = "Bui";
-        String email = "thetam1410011@gmail.com";
+        String email = "thetam1410022@gmail.com";
         String password = "123456";
         String confirmPassword = password;
 
